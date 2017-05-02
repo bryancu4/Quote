@@ -1,0 +1,16 @@
+﻿Compound Interest Formulas and Calculations:
+
+Calculate Accrued Amount (Principal + Interest)
+A = P(1 + r/n)nt
+
+Calculate Principal Amount, solve for P
+P = A / (1 + r/n)nt
+
+Calculate rate of interest in decimal, solve for r
+r = n[(A/P)1/nt - 1]
+
+Calculate rate of interest in percent
+R = r * 100
+
+Calculate time, solve for t
+t = ln(A/P) / n[ln(1 + r/n)] = [ ln(A) - ln(P) ] / n[ln(1 + r/n)]
